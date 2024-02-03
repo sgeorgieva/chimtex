@@ -1,0 +1,19 @@
+{
+  "name": "chimtex",
+  "version": "1.0.0",
+  "description": "Chimtex project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "set \"VITE_CJS_TRACE=true\" && vite dev",
+    "build": "set \"VITE_CJS_TRACE=true\" && vite build",
+    "preview": "vite preview --port 8080"
+  },
+  "keywords": [],
+  "author": "Santiya Georgieva",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "vite-plugin-inspect": "^0.8.3"
+  }
+}
