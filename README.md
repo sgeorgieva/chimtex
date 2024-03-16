@@ -2,7 +2,6 @@
 
 ## Introduction
 This project containing static pages written with html, css and javascript.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Installation
 First, install the programs required to run the application:
