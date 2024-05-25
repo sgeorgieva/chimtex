@@ -11,7 +11,7 @@ First, install the programs required to run the application:
 Next, clone this repository and install dependencies:
 
 ```
-git clone git@github.com:SantiyaGeorgieva/chimtex.git
+git clone git@github.com:sgeorgieva/chimtex.git
 ```
 
 Now, select the desire html file and open it via Enter button or left mouse click, the page should open in your default browser.
